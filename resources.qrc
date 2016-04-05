@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="blender.svg">icons/scalable/apps/blender.svg</file>
+        <file alias="blender32.png">icons/32x32/apps/blender.png</file>
+        <file alias="blender256.png">icons/256x256/apps/blender.png</file>
+        <file alias="blender48.png">icons/48x48/apps/blender.png</file>
+        <file alias="blender24.png">icons/24x24/apps/blender.png</file>
+        <file alias="blender16.png">icons/16x16/apps/blender.png</file>
+    </qresource>
+</RCC>
