@@ -1,10 +1,17 @@
 # BlendManager
-BlendManager is a program to manage various Blender version.
+BlendManager is a program to manage various Blender version. It's able to open the version in which your .blend was made.
+
 It uses Qt5 to show the user interface.
 
 This is the result of 3 days of codes scavenging in Stack Overflow.
 
 You may fork and modify the code, but please give credit to the original author (and the people in Stack Overflow). :)
+
+# Usage
+
+`BlendManager ... [.blend] ...`
+
+BlendManager didn't accept any arguments (except maybe the Qt5 part) but pass all the arguments to the Blender, with an exception of detecting the version of the .blend supplied.
 
 # Known Issues
 
