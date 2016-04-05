@@ -20,6 +20,8 @@ You may fork and modify the code, but please give credit to the original author 
 BlendManager relies on two .json file: `settings.json` and `versions.json`.
 Both are read on startup.
 
+Ps. all values regarding path must use `/` instead of `\`. (especially in Windows)
+
 ####settings.json
 
 	"versionAutoSelect": [true|false]
