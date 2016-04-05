@@ -19,7 +19,7 @@ BlendManager didn't accept any arguments (except maybe the Qt5 part) but pass al
 - BlendManager may not show console output properly.
 - BlendManager has not implemented autonomous update for versions.
 - BlendManager has not implemented user-friendly versions (and settings) editing.
-- BlendManager may not properly implemented some features it offered.
+- BlendManager may not properly implement some features it has offered.
 - BlendManager isn't written properly according to the safe practice, so memory leak and such problem may exist.
 
 # Configuring
