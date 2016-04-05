@@ -4,6 +4,8 @@ It uses Qt5 to show the user interface.
 
 This is the result of 3 days of codes scavenging in Stack Overflow.
 
+You may fork and modify the code, but please give credit to the original author (and the people in Stack Overflow). :)
+
 # Known Issues
 
 - BlendManager may crashes when downloading Blender version without network connection.
