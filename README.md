@@ -29,7 +29,7 @@ Both are read on startup.
 
 Ps. all values regarding path must use `/` instead of `\`. (especially in Windows)
 
-####settings.json
+#### settings.json
 
 	"versionAutoSelect": [true|false]
 
@@ -67,7 +67,7 @@ Set the command to extract downloaded Blender version archive.
 
 Set the arguments to extract archive. (using `%{FILE}` and `%{OUTPUT_DIR}`)
 
-####versions.json
+#### versions.json
 
 	"...": {
 
