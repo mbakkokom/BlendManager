@@ -90,7 +90,7 @@ Set branch name to the version. `vanilla` being the default branch.
 
 		"downloadHash": "...",
 
-Set the md5 hash of the version. (Although checking mechanism is not implemented yet.
+Set the md5 hash of the version. (Although checking mechanism is not implemented yet.)
 
 		"downloadURL": "..."
 
@@ -118,7 +118,7 @@ Set the major version.
 
 		"minor": [int]
 
-Set the minot version.
+Set the minor version.
 
 	}
 
